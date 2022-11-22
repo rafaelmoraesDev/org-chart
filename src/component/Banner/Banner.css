@@ -1,0 +1,20 @@
+.banner {
+  background-color: #1f1f1f;
+  text-align: center;
+}
+.banner img {
+  max-width: 100%;
+}
+.banner h1 {
+  font-size: 5em;
+  margin: 0 auto;
+  padding-top: 5%;
+  color: #fafafa;
+  width: 45%;
+  word-wrap: normal;
+}
+.banner h2 {
+  color: #fa4b00;
+  margin-top: auto;
+  padding: 0 0 5% 0;
+}

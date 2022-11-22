@@ -1,0 +1,22 @@
+.footer {
+    background: #1f1f1f;
+    color: #fafafa;
+    padding: 2%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer ul li {
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+}
+
+.footer .logo{
+    width: 64px;
+    border-radius: 360px;
+}
