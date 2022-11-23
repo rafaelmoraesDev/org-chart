@@ -24,7 +24,7 @@ const App = () => {
     {
       name: "UX and Design",
       primaryColor: "#D86EBF",
-      secondaryColor: "#FAE95F5"
+      secondaryColor: "#FAE9F5"
     },
     {
       name: "Mobile",

@@ -14,20 +14,19 @@
 }
 
 .employee .footer {
+  flex-direction: column;
   background: #ffffff;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
   border-radius: 0px 0px 10px 10px;
   padding-top: 90px;
-  padding-bottom: 40px;
 }
 
 .employee .footer h4 {
-  color: #6278f7;
+  color: #fa4b00;
   font-size: 18px;
   line-height: 22px;
   font-weight: bold;
   margin-bottom: 8px;
-  border: solid red;
   
 }
 
